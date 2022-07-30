@@ -1,0 +1,10 @@
+.container{
+     border:solid 1px black !important;
+     margin-top:40px;
+}
+.dataTables_wrapper {
+     position: relative;
+     clear: both;
+     margin-top: 10px !important;
+     margin-bottom: 10px !important
+ }
